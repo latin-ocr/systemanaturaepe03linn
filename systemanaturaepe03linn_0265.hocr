@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemanaturaepe03linn_0265.png"; bbox 0 0 1752 2953; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 317 1165 1511 1253">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 317 1165 1511 1253">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 1165 1511 1253; baseline 0.017 -20"><span class='ocrx_word' id='word_1_1' title='bbox 317 1165 682 1238; x_wconf 89' lang='lat' dir='ltr'>INSERT</span> <span class='ocrx_word' id='word_1_2' title='bbox 715 1172 770 1240; x_wconf 91' lang='lat' dir='ltr'>F</span> <span class='ocrx_word' id='word_1_3' title='bbox 777 1172 1203 1248; x_wconf 88' lang='lat' dir='ltr'>OLDOUT</span> <span class='ocrx_word' id='word_1_4' title='bbox 1235 1181 1511 1253; x_wconf 90' lang='lat' dir='ltr'>HERE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
